@@ -1,0 +1,1 @@
+int factorial(int n);    //函数声明
